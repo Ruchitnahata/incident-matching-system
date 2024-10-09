@@ -1,0 +1,11 @@
+incident_description,solution,team_involved
+Server outage due to hardware failure in datacenter,Replace faulty hardware and restore services from backup,Infrastructure Team
+Database corruption causing loss of customer data,Run data recovery process and restore from last backup,Database Team
+Network latency affecting service performance,Optimize network routes and upgrade infrastructure,Network Team
+Memory leak in application causing system crashes,Identify and fix the memory leak in the code,Application Development Team
+Unauthorized access detected in user accounts,Reset passwords and enable 2FA for affected accounts,Security Team
+DNS server issue causing intermittent connectivity,Reconfigure DNS settings and clear cache,Network Team
+API request timeouts due to load balancer misconfiguration,Adjust load balancer settings and increase server capacity,Infrastructure Team
+Power outage in server room affecting critical services,Switch to backup power and restart critical services,Facilities Team
+Software bug causing data processing delays,Patch the software to resolve the bug,Application Development Team
+Firewall misconfiguration blocking external traffic,Correct firewall rules and allow necessary traffic,Security Team
